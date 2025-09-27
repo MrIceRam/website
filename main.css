@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(60, 60, 60);
+    background-color: #4d6d9a;
      height: 50em;
   display: flex;
   align-items: center;
@@ -7,7 +7,7 @@ body{
 
 }
 .MainDiv{
-    background-color: rgb(255, 255, 255);
+    background-color: #99ced3;
     padding: 20px;
     text-align: center;
 border-radius: 15%;
